@@ -11,6 +11,13 @@ student
 
 https://www.mockaroo.com/80a6b300
 
+
+# 注意：
+
+請給資料庫連接帳號以下權限即可
+- SELECT
+- UPDATE
+
 ## Credits
 * [jQuery](http://jquery.com/)
 * [Bootstrap](http://getbootstrap.com/)
